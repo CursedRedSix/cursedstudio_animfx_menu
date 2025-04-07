@@ -51,6 +51,3 @@ Click it again to stop it
 Or use the “▶ Play” and “■ Stop” buttons manually
 
 Press ESC or click ❌ to close
-
-join discord for support
-https://discord.gg/DP9nCNWZYH
